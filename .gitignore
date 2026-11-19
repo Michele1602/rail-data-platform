@@ -1,0 +1,6 @@
+.env
+data/raw/*.zip
+
+.vscode
+__pycache__/
+logs/
